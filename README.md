@@ -10,6 +10,7 @@ Quick start
 
 - Install: npm install
 - Dev server: npm run dev
+- Local URL: http://127.0.0.1:5222/
 - Unit tests: npm run test:unit
 
 What’s implemented
