@@ -54,3 +54,6 @@ Things that can be enhanced given time
 License / notes
 
 - Uses TVMaze API for data (see services/shows.service.ts).
+
+Demo: https://github.com/user-attachments/assets/536b2c3a-adad-4b70-9c80-1e5e36f7b00d
+
